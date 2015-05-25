@@ -1,0 +1,5 @@
+1. El password inicial es "password". Una vez se aceda por primera vez al panel de administracion cambiarlo por razones de seguridad.
+
+2. La base de datos que utiliza este proyecto se encuentra en la carpeta BBDD, una vez importada en la BBDD borrar del servidor por motivos de seguridad.
+
+3. Los datos de acceso de la BBDD se encuentran en /model/DAOContents.php en los corrspondientes atributos, sustituirlos por los datos de la BBDD que se vaya a usar e importar el archivo mencionado en el paso 2 en esta BBDD.
